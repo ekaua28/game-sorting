@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Sunday1 Game",
+    "type": "V64",
+    "start": "2021-02-14T16:30:00"
+  },
+  {
+    "name": "Sunday2 Game",
+    "type": "V64",
+    "start": "2021-02-14T15:30:00"
+  },
+  {
+    "name": "Sunday3 Game",
+    "type": "GS75",
+    "start": "2021-02-14T17:30:00"
+  },
+  {
+    "name": "Monday Game",
+    "type": "V64",
+    "start": "2021-02-15T16:30:00"
+  },
+  {
+    "name": "Tuesday Game",
+    "type": "V64",
+    "start": "2021-02-16T16:30:00"
+  },
+  {
+    "name": "Wednesday Game",
+    "type": "V86",
+    "start": "2021-02-17T16:30:00"
+  },
+  {
+    "name": "Thursday Game",
+    "type": "V64",
+    "start": "2021-02-18T16:30:00"
+  },
+  {
+    "name": "Friday Game",
+    "type": "V64",
+    "start": "2021-02-19T16:30:00"
+  },
+  {
+    "name": "Saturday Game",
+    "type": "V75",
+    "start": "2021-02-20T16:30:00"
+  },
+  {
+    "name": "Sunday Game",
+    "type": "GS75",
+    "start": "2021-02-21T16:30:00"
+  },
+  {
+    "name": "Monday Game",
+    "type": "V64",
+    "start": "2021-02-22T16:30:00"
+  },
+  {
+    "name": "Tuesday Game",
+    "type": "V64",
+    "start": "2021-02-23T16:30:00"
+  },
+  {
+    "name": "Wednesday Game",
+    "type": "V86",
+    "start": "2021-02-24T16:30:00"
+  },
+  {
+    "name": "Thursday Game",
+    "type": "V64",
+    "start": "2021-02-25T16:30:00"
+  },
+  {
+    "name": "Friday Game",
+    "type": "V64",
+    "start": "2021-02-26T16:30:00"
+  },
+  {
+    "name": "Saturday Game",
+    "type": "V75",
+    "start": "2021-02-27T16:30:00"
+  },
+  {
+    "name": "Sunday Game",
+    "type": "GS75",
+    "start": "2021-02-28T16:30:00"
+  },
+  {
+    "name": "Monday Game",
+    "type": "V75",
+    "start": "2021-12-27T16:30:00"
+  },
+  {
+    "name": "Tuesday Game",
+    "type": "V75",
+    "start": "2021-12-28T16:30:00"
+  },
+  {
+    "name": "Wednesday Game",
+    "type": "V75",
+    "start": "2021-12-29T16:30:00"
+  },
+  {
+    "name": "Thursday Game",
+    "type": "V75",
+    "start": "2021-12-30T16:30:00"
+  },
+  {
+    "name": "Friday Game",
+    "type": "V75",
+    "start": "2021-12-31T16:30:00"
+  },
+  {
+    "name": "Saturday Game",
+    "type": "V75",
+    "start": "2022-01-01T16:30:00"
+  },
+  {
+    "name": "Sunday Game",
+    "type": "GS75",
+    "start": "2022-01-02T16:30:00"
+  },
+  {
+    "name": "Monday Game",
+    "type": "V64",
+    "start": "2021-12-20T16:30:00"
+  },
+  {
+    "name": "Tuesday Game",
+    "type": "V64",
+    "start": "2021-12-21T16:30:00"
+  },
+  {
+    "name": "Wednesday Game",
+    "type": "V86",
+    "start": "2021-12-22T16:30:00"
+  },
+  {
+    "name": "Thursday Game",
+    "type": "V75",
+    "start": "2021-12-23T16:30:00"
+  },
+  {
+    "name": "Saturday Game",
+    "type": "V75",
+    "start": "2021-12-25T16:30:00"
+  },
+  {
+    "name": "Sunday Game",
+    "type": "V75",
+    "start": "2021-12-26T16:30:00"
+  }
+]
